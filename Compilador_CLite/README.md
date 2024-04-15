@@ -2,7 +2,7 @@ OLIVER KIERAN GALVÃO MCCORMACK
 
 --------------------------------------------------------
 
-Este é um programa que analisa o arquivo entrada.txt e informa o usuário se o código de entrada no arquivo txt é lexicamente e sintaticamente correto, de acordo com a linguagem fictícia "CLite".
+Este é um programa que analisa o arquivo entrada.txt e informa ao usuário se o código de entrada no arquivo texto é lexicamente e sintaticamente correto, de acordo com a linguagem fictícia "CLite".
 
 Ele é baseado em um trabalho da faculdade de Ciência da Computação que fiz.
 
