@@ -1,8 +1,12 @@
 /*
-NOME: OLIVER KIERAN GALVÃO MCCORMACK    RA: 10395672
+NOME: OLIVER KIERAN GALVÃO MCCORMACK
 */
 
 /*
+Gramática da linguagem Clite
+A sintaxe da linguagem CLite está descrita na notação EBNF, os <não-terminais> da gramática são nomes entre parênteses angulares < e > e os símbolos terminais (átomos do analisador léxico)
+estão em negrito ou entre aspas (Ex: “;”). A notação { a } denotará a repetição da cadeia a zero, uma ou mais vezes (a*) e a construção [ b ] é equivalente a b|λ, ou seja, indica que a cadeia b é opcional.
+
 <programa> ::= int main “(” void “)” “{“ <declaracoes> <comandos> “}” 
 <declaracoes> ::= { <declaracao> } 
 <declaracao> ::= <tipo> <lista_variavel> “;” 
